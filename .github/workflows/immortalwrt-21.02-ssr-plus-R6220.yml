@@ -21,9 +21,9 @@ env:
   REPO_BRANCH: openwrt-21.02
   # REPO_BRANCH: openwrt-v21.02.7
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: R6220/immortalwrt-21.02.7/.config
-  DIY_P1_SH: R6220/immortalwrt-21.02.7/diy-part1.sh
-  DIY_P2_SH: R6220/immortalwrt-21.02.7/diy-part2.sh
+  CONFIG_FILE: NETGEAR-R6220/immortalwrt-21.02/.config
+  DIY_P1_SH: NETGEAR-R6220/immortalwrt-21.02/diy-part1.sh
+  DIY_P2_SH: NETGEAR-R6220/immortalwrt-21.02/diy-part2.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
