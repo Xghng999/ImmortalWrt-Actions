@@ -19,7 +19,6 @@ on:
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt.git
   REPO_BRANCH: openwrt-21.02
-  # REPO_BRANCH: openwrt-v21.02.7
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: NETGEAR-R6220/immortalwrt-21.02/.config
   DIY_P1_SH: NETGEAR-R6220/immortalwrt-21.02/diy-part1.sh
